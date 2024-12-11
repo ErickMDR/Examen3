@@ -1,0 +1,1001 @@
+id,nombre_mascota,tipo_animal,fecha_ingreso,sexo
+1,Guthry,Leopard,12/20/2023,M
+2,Steffi,Zorilla,4/18/2024,H
+3,Griswold,Eurasian hoopoe,7/9/2024,M
+4,Hazel,Hottentot teal,4/16/2024,M
+5,Carri,Lemur sportive,11/28/2024,H
+6,Michael,Barbet crested,4/11/2024,M
+7,Darsey,Peccary collared,5/31/2024,H
+8,Alley,American Virginia opossum,12/19/2023,M
+9,Jennilee,Russian dragonfly,6/11/2024,H
+10,Susie,Lapwing,5/25/2024,H
+11,Patrizia,Flying fox,1/6/2024,H
+12,Maxie,Long-crested hawk eagle,5/4/2024,M
+13,Timi,Grant's gazelle,9/27/2024,H
+14,Saundra,Spurfowl yellow-necked,8/9/2024,H
+15,Zilvia,Fowl helmeted guinea,5/3/2024,H
+16,Julie,Bleeding heart monkey,6/7/2024,H
+17,Chloris,Alpaca,3/18/2024,H
+18,Denis,Red-billed tropic bird,5/23/2024,M
+19,Collin,Gull pacific,12/4/2024,M
+20,Regine,Vulture white-rumped,8/17/2024,H
+21,Massimo,Thomson's gazelle,5/8/2024,M
+22,Florenza,Small-clawed otter,8/6/2024,H
+23,Benedetta,Downy woodpecker,4/25/2024,H
+24,Rudd,Slender-billed cockatoo,12/27/2023,M
+25,Fanni,Egret cattle,2/12/2024,H
+26,Jarrett,African polecat,1/16/2024,M
+27,Aldon,Ornate rock dragon,9/1/2024,M
+28,Arleta,Bulbul black-eyed,4/10/2024,H
+29,Taffy,Common langur,7/27/2024,H
+30,Timmie,Black-backed jackal,7/21/2024,M
+31,Perle,Iguana marine,9/25/2024,H
+32,Park,Honey badger,11/25/2024,M
+33,Meade,Asian water dragon,4/12/2024,H
+34,Franciskus,Cockatoo red-tailed,3/24/2024,M
+35,Boycie,Gnu brindled,1/31/2024,M
+36,Dorree,South American meadowlark,12/17/2023,H
+37,Ulberto,Macaque japanese,9/4/2024,M
+38,Gisele,Emerald green tree boa,5/20/2024,H
+39,Brit,Reedbuck bohor,2/14/2024,H
+40,Doloritas,Woodchuck,7/16/2024,H
+41,Belinda,Cobra cape,5/17/2024,H
+42,Chev,Whale southern right,6/28/2024,M
+43,Lacy,Jackrabbit white-tailed,1/21/2024,H
+44,Selena,Eleven-banded armadillo,5/17/2024,H
+45,Zilvia,Common seal,2/20/2024,H
+46,Aristotle,Wallaby river,6/8/2024,M
+47,Erik,Swallow,2/20/2024,M
+48,Lorenzo,Pied butcher bird,2/10/2024,M
+49,Lindsey,Galapagos sea lion,9/2/2024,M
+50,Evelyn,European red squirrel,4/2/2024,H
+51,Amber,Rat arboral spiny,4/6/2024,H
+52,Solly,Kalahari scrub robin,5/21/2024,M
+53,Austin,Vulture white-rumped,8/30/2024,H
+54,Frederic,Galah,5/16/2024,M
+55,Tessy,Egret snowy,1/27/2024,H
+56,Etan,Bandicoot short-nosed,10/11/2024,M
+57,Ernest,Helmeted guinea fowl,7/31/2024,M
+58,Barbara-anne,Green vine snake,7/29/2024,H
+59,Kasey,Cape raven,6/7/2024,H
+60,Hoebart,Rat white-faced tree,2/7/2024,M
+61,Daveen,Cormorant king,4/10/2024,H
+62,Allin,Gull kelp,10/10/2024,M
+63,Boris,Alpaca,6/9/2024,M
+64,Beckie,Giant anteater,1/23/2024,H
+65,Stevana,Hawk-eagle crowned,4/1/2024,H
+66,Cullin,Jaguar,7/17/2024,M
+67,Daloris,Eagle bateleur,10/2/2024,H
+68,Akim,Badger european,5/2/2024,M
+69,Alain,Tarantula,5/25/2024,M
+70,Gregor,North American red fox,12/31/2023,M
+71,Callida,Pintail bahama,9/10/2024,H
+72,Edlin,Northern fur seal,4/4/2024,M
+73,Tiffany,Gray langur,7/27/2024,H
+74,Zak,Greylag goose,6/30/2024,M
+75,Rosaline,Blesbok,4/4/2024,H
+76,Louise,Asian water dragon,10/3/2024,H
+77,Genny,Blue wildebeest,12/14/2023,H
+78,Thorny,Blue racer,5/19/2024,M
+79,Dag,Black-throated cardinal,4/24/2024,M
+80,Thayne,Sockeye salmon,6/29/2024,M
+81,Darnell,Wolf mexican,12/27/2023,M
+82,Michale,Ovenbird,9/10/2024,M
+83,Dre,Kangaroo red,3/12/2024,H
+84,Kamillah,Caiman spectacled,3/4/2024,H
+85,Ivory,Cobra egyptian,11/13/2024,H
+86,Lucinda,Cat miner's,11/7/2024,H
+87,Evin,Jackrabbit white-tailed,1/12/2024,M
+88,Brit,Australian pelican,6/28/2024,M
+89,Roman,Mockingbird galapagos,2/6/2024,M
+90,Susan,Grey-footed squirrel,1/26/2024,H
+91,Maureen,Goose greylag,5/12/2024,H
+92,Minerva,Ground monitor,8/25/2024,H
+93,Bidget,Openbill stork,12/2/2024,H
+94,Claretta,Alligator mississippi,8/9/2024,H
+95,Rudy,White-winged black tern,6/18/2024,M
+96,Chrotoem,Flycatcher tyrant,5/30/2024,M
+97,Alex,Chimpanzee,6/9/2024,M
+98,Teodoor,Bustard kori,5/6/2024,M
+99,Wilhelmina,Burmese brown mountain tortoise,6/13/2024,H
+100,Corrina,Squirrel antelope ground,8/13/2024,H
+101,Sidoney,Weaver lesser masked,1/17/2024,H
+102,Beryl,Dik kirk's dik,7/13/2024,H
+103,Christina,Chickadee black-capped,10/7/2024,H
+104,Timi,Ring-tailed gecko,10/24/2024,H
+105,Eldon,Black-tailed deer,5/19/2024,M
+106,Tamas,Tortoise indian star,9/20/2024,M
+107,Kimberley,Snake green vine,6/22/2024,H
+108,Ollie,Snowy sheathbill,3/13/2024,M
+109,Harrison,African polecat,10/11/2024,M
+110,Mariquilla,Ibex,6/21/2024,H
+111,Veradis,Greater blue-eared starling,4/5/2024,H
+112,Darby,Wallaby bennett's,1/24/2024,M
+113,Ruttger,American bison,1/14/2024,M
+114,Algernon,Crowned hawk-eagle,9/22/2024,M
+115,Lizbeth,Pintail bahama,2/3/2024,H
+116,Chase,Yellow-brown sungazer,5/22/2024,M
+117,Maynard,Wagtail african pied,1/13/2024,M
+118,Natalya,Lion australian sea,11/16/2024,H
+119,Karl,Stork white,11/19/2024,M
+120,Maegan,Cobra egyptian,9/27/2024,H
+121,Caye,Lemming collared,11/22/2024,H
+122,Julius,Mouflon,10/12/2024,M
+123,Allard,Brown brocket,12/4/2024,M
+124,Alleyn,Goose spur-winged,9/16/2024,M
+125,Ab,Deer swamp,4/12/2024,M
+126,Cesaro,Goose canada,8/8/2024,M
+127,Gabie,Spurfowl yellow-necked,5/3/2024,M
+128,Irina,Neotropic cormorant,7/25/2024,H
+129,Saundra,Kaffir cat,2/23/2024,M
+130,Gallard,Snake racer,1/11/2024,M
+131,Sim,Netted rock dragon,7/3/2024,M
+132,Tommie,Malay squirrel,2/5/2024,H
+133,Benn,Adouri,3/16/2024,M
+134,Kynthia,Crown of thorns starfish,7/2/2024,H
+135,Dalia,Kori bustard,7/7/2024,H
+136,Peyton,Defassa waterbuck,7/20/2024,M
+137,Shana,Fox cape,2/3/2024,H
+138,Gil,Trumpeter dark-winged,5/3/2024,M
+139,Marsha,African porcupine,12/20/2023,H
+140,Garrick,Australian spiny anteater,12/19/2023,M
+141,Dulcine,Alligator american,1/21/2024,H
+142,Hyacinthia,Long-tailed jaeger,11/30/2024,H
+143,Denis,Duck comb,8/23/2024,M
+144,Trstram,Four-horned antelope,1/25/2024,M
+145,Joshuah,Beaver north american,8/20/2024,M
+146,Terrill,Eagle bald,6/3/2024,M
+147,Burgess,Dove rock,4/22/2024,M
+148,Audra,Oribi,11/22/2024,H
+149,Godiva,African bush squirrel,2/29/2024,H
+150,Karyn,Neotropic cormorant,2/8/2024,H
+151,Garry,Purple moorhen,10/22/2024,M
+152,Kerr,Flying fox,4/22/2024,M
+153,Weidar,Black-winged stilt,5/4/2024,M
+154,Hobey,Tern white-winged,4/11/2024,M
+155,Aldric,Rhinoceros black,9/3/2024,M
+156,Augusto,Black-tailed tree creeper,4/16/2024,M
+157,Delinda,Egret great,6/13/2024,H
+158,Dore,Otter brazilian,2/17/2024,H
+159,Dimitry,Saddle-billed stork,12/5/2024,M
+160,Alexina,Coqui francolin,10/23/2024,H
+161,Fleurette,Turkey common,8/17/2024,H
+162,Consuela,Grant's gazelle,1/4/2024,H
+163,Karilynn,Blue-faced booby,3/25/2024,H
+164,Jedediah,Phalarope red-necked,9/20/2024,M
+165,Mohandis,Dragonfly russian,11/23/2024,M
+166,Hilary,Dusky rattlesnake,11/13/2024,M
+167,Diena,Cobra egyptian,1/31/2024,H
+168,Dallas,Genoveva,5/5/2024,H
+169,Cyril,Feral rock pigeon,7/7/2024,M
+170,Dag,Gray rhea,10/26/2024,M
+171,Bev,Northern elephant seal,4/13/2024,M
+172,Sigismundo,Cereopsis goose,9/25/2024,M
+173,Chase,Dove mourning collared,11/29/2024,M
+174,Stefanie,Eastern boa constrictor,9/11/2024,H
+175,Roobbie,Macaw green-winged,3/2/2024,H
+176,Hunt,Eastern indigo snake,11/26/2024,M
+177,Rhoda,Oryx beisa,12/26/2023,H
+178,Orville,Oryx beisa,5/12/2024,M
+179,Kelsey,Eleven-banded armadillo,2/24/2024,H
+180,Thain,Lorikeet scaly-breasted,10/5/2024,M
+181,Florenza,Nilgai,11/22/2024,H
+182,Robby,Booby masked,4/3/2024,M
+183,Gunner,Porcupine african,6/30/2024,M
+184,Tandie,Monitor water,7/25/2024,H
+185,Spence,Scaly-breasted lorikeet,1/20/2024,M
+186,Dolf,Hawk-headed parrot,1/4/2024,M
+187,Bobbie,Feral rock pigeon,3/27/2024,H
+188,Antoni,Long-tailed jaeger,10/20/2024,M
+189,Madelene,Blue-footed booby,2/2/2024,H
+190,Cull,Legaan ground,11/19/2024,M
+191,Graham,Ground legaan,10/12/2024,M
+192,Belita,Hawk-headed parrot,3/14/2024,H
+193,Madeline,Macaque rhesus,11/23/2024,H
+194,Francesca,Raven cape,1/19/2024,H
+195,Jacinthe,Golden-mantled ground squirrel,12/15/2023,H
+196,Dian,Eland common,6/12/2024,H
+197,Nikos,Woodrat,9/13/2024,M
+198,Gertruda,Cormorant,4/9/2024,H
+199,Findley,African skink,3/16/2024,M
+200,Barnabas,Desert spiny lizard,3/1/2024,M
+201,Freddie,Kangaroo eastern grey,7/17/2024,H
+202,Lisetta,Waxbill blue,5/6/2024,H
+203,Cale,Common palm civet,2/13/2024,M
+204,Victor,Small-toothed palm civet,4/18/2024,M
+205,Elsi,Lion south american sea,9/9/2024,H
+206,Alyse,European red squirrel,9/1/2024,H
+207,Issi,Sloth hoffman's,7/10/2024,H
+208,Hayyim,Lion steller's sea,5/1/2024,M
+209,Gretchen,Desert kangaroo rat,2/27/2024,H
+210,Anastasie,Blue shark,10/11/2024,H
+211,Maura,Buffalo american,4/21/2024,H
+212,Doug,Lappet-faced vulture,1/7/2024,M
+213,Ward,Porcupine indian,2/5/2024,M
+214,Katinka,Baleen whale,3/11/2024,H
+215,Maje,Barbet levaillant's,11/24/2024,M
+216,Quentin,Cormorant pied,4/17/2024,H
+217,Damiano,Wolf mexican,3/30/2024,M
+218,Hailey,Magpie black-backed,11/30/2024,M
+219,Teriann,Nine-banded armadillo,1/1/2024,H
+220,Lianne,Barbet levaillant's,11/20/2024,H
+221,Eula,Crake african black,4/10/2024,H
+222,Lewes,Snake buttermilk,12/19/2023,M
+223,Porter,Kaffir cat,9/22/2024,M
+224,Val,Cat native,4/9/2024,H
+225,Brendon,Ovenbird,5/24/2024,M
+226,Crystal,Dragon western bearded,10/18/2024,H
+227,Rad,Wood pigeon,10/18/2024,M
+228,Cully,Ibex,10/21/2024,M
+229,Torrie,Antechinus brown,5/12/2024,H
+230,Alvis,Dassie,2/3/2024,M
+231,Willow,Tinamou elegant crested,6/3/2024,H
+232,Theresa,Field flicker,6/8/2024,H
+233,Ewart,Kaffir cat,11/13/2024,M
+234,Aime,Deer roe,3/27/2024,H
+235,Evie,Chimpanzee,10/4/2024,H
+236,Geoffry,Bald eagle,4/2/2024,M
+237,Clarette,Green-winged trumpeter,9/20/2024,H
+238,Lyle,Bottle-nose dolphin,10/8/2024,M
+239,Obadiah,Heron green,4/30/2024,M
+240,Bridgette,Cormorant great,7/7/2024,H
+241,Brewster,Shelduck common,2/15/2024,M
+242,Janel,Blackish oystercatcher,6/25/2024,H
+243,Ezri,Insect stick,1/26/2024,M
+244,Kean,Common dolphin,1/5/2024,M
+245,Willard,Great skua,7/6/2024,M
+246,Tania,Gull herring,3/16/2024,H
+247,Travers,Tortoise galapagos,10/18/2024,M
+248,Milka,Capybara,9/16/2024,H
+249,See,Porcupine african,7/23/2024,M
+250,Horacio,Dove rock,4/22/2024,M
+251,Eleanora,Lizard collared,4/12/2024,H
+252,Jayson,Savannah deer,9/25/2024,M
+253,Maressa,Canadian tiger swallowtail butterfly,1/24/2024,H
+254,Rey,Leadbeateri's ground hornbill,4/24/2024,M
+255,Keelby,Hare arctic,9/9/2024,M
+256,Beulah,Silver gull,2/15/2024,H
+257,Germaine,Tamandua southern,2/28/2024,H
+258,Tannie,Bee-eater,8/26/2024,M
+259,Norry,Boa cook's tree,11/30/2024,H
+260,Noah,Puma,3/10/2024,M
+261,Sandy,Hoopoe eurasian,6/5/2024,H
+262,Leroy,Asian elephant,9/29/2024,M
+263,Frants,Penguin magellanic,8/8/2024,M
+264,Benoite,Rattlesnake dusky,6/23/2024,H
+265,Hermie,Toucan red-billed,3/7/2024,M
+266,Ody,Deer black-tailed,8/12/2024,M
+267,Gillie,Oriental white-backed vulture,11/30/2024,H
+268,Aube,Pie indian tree,9/11/2024,M
+269,Myrah,Japanese macaque,11/14/2024,H
+270,Merilyn,Guerza,5/14/2024,H
+271,Consuela,Chameleon,7/10/2024,H
+272,Batsheva,Rhea gray,7/24/2024,H
+273,Say,Rhesus macaque,11/13/2024,M
+274,Alick,Chacma baboon,9/6/2024,M
+275,Gregoire,Kangaroo western grey,4/27/2024,M
+276,Granny,Coatimundi ring-tailed,10/20/2024,M
+277,Tarah,Skink blue-tongued,9/17/2024,H
+278,Carola,Darter african,8/3/2024,H
+279,Chiarra,Drongo fork-tailed,1/3/2024,H
+280,Chester,Yellow-brown sungazer,11/19/2024,M
+281,Jasper,Common wombat,7/14/2024,M
+282,Mikel,Southern hairy-nosed wombat,2/5/2024,M
+283,Kaiser,Monkey rhesus,9/14/2024,M
+284,Olin,Cormorant javanese,3/21/2024,M
+285,Delly,Great skua,4/6/2024,H
+286,Linnet,Crab-eating raccoon,4/18/2024,H
+287,Catherine,Common turkey,3/8/2024,H
+288,Geoffry,Fat-tailed dunnart,10/30/2024,M
+289,Vladimir,Ringtail,4/26/2024,M
+290,Ivan,Collared lizard,2/5/2024,M
+291,Chrysa,Toucan red-billed,8/17/2024,H
+292,Kenon,Bonnet macaque,12/16/2023,M
+293,Willetta,Eurasian red squirrel,11/8/2024,H
+294,Carmine,Warthog,11/16/2024,H
+295,Colan,Fox pampa gray,6/24/2024,M
+296,Gertie,Yellow-billed stork,4/22/2024,H
+297,Melinda,Monkey rhesus,8/20/2024,H
+298,Ashil,Little cormorant,12/25/2023,H
+299,Francesca,Macaw red and blue,12/22/2023,H
+300,Giuditta,Vulture griffon,5/19/2024,H
+301,Brewer,Macaw scarlet,7/22/2024,M
+302,Denyse,Jackal golden,2/1/2024,H
+303,Henriette,Monkey black spider,11/22/2024,H
+304,Meir,Currasow,12/8/2023,M
+305,Rianon,Rattlesnake horned,12/1/2024,H
+306,Shaw,Heron little,9/24/2024,M
+307,Marty,Rhesus monkey,10/9/2024,H
+308,Isidore,Salmon sockeye,11/28/2024,M
+309,Wilbert,Woodpecker downy,2/18/2024,M
+310,Clo,Goldeneye common,3/6/2024,H
+311,Cozmo,Ornate rock dragon,10/23/2024,M
+312,Avrom,Snake buttermilk,8/5/2024,M
+313,Else,Mara,11/11/2024,H
+314,Willis,Flycatcher tyrant,4/12/2024,M
+315,Brittany,Ring-tailed possum,9/20/2024,H
+316,Lincoln,Springbok,11/8/2024,M
+317,Douglas,Savannah deer,10/30/2024,M
+318,Kirsti,Marmot yellow-bellied,8/14/2024,H
+319,Farah,Tokay gecko,10/15/2024,H
+320,Harrietta,Salmon pink bird eater tarantula,10/22/2024,H
+321,Malena,Manatee,12/7/2024,H
+322,Sarene,Snowy owl,1/28/2024,H
+323,Madelyn,Black-winged stilt,10/13/2024,H
+324,Sandi,Bobcat,6/28/2024,H
+325,Emily,Sportive lemur,1/29/2024,H
+326,Kerry,Adouri,12/2/2024,M
+327,Dodi,Starling cape,2/24/2024,H
+328,Alair,Pied butcher bird,6/19/2024,M
+329,Lilia,Rat desert kangaroo,7/8/2024,H
+330,Finlay,Reedbuck bohor,6/9/2024,M
+331,Emmy,Kafue flats lechwe,9/30/2024,M
+332,Cherice,Fox silver-backed,3/13/2024,H
+333,Sammy,Common rhea,8/10/2024,M
+334,Clevey,Collared lemming,11/1/2024,M
+335,Cassandry,Red and blue macaw,7/9/2024,H
+336,Amby,Lion galapagos sea,12/28/2023,M
+337,Bertrand,Bat madagascar fruit,10/6/2024,M
+338,Milissent,Praying mantis,10/2/2024,H
+339,Livvie,Capybara,3/8/2024,H
+340,Candie,Bird magnificent frigate,8/18/2024,H
+341,Jobyna,White-headed vulture,1/18/2024,H
+342,Jarvis,Small-spotted genet,2/12/2024,M
+343,Ario,Black-tailed tree creeper,5/13/2024,M
+344,Giffard,Vulture king,3/22/2024,M
+345,Sauncho,Monster gila,5/6/2024,M
+346,Gran,Kori bustard,10/23/2024,M
+347,Marco,Nine-banded armadillo,1/17/2024,M
+348,Rubetta,Black spider monkey,9/4/2024,H
+349,Pieter,Lapwing southern,3/18/2024,M
+350,Fielding,Common pheasant,11/10/2024,M
+351,Darlene,Civet common palm,1/18/2024,H
+352,Harlen,Robin white-throated,10/15/2024,M
+353,Elissa,Rhesus macaque,1/20/2024,H
+354,Abbi,Antelope ground squirrel,5/13/2024,H
+355,Hastings,Paca,4/3/2024,M
+356,Nessi,Hyrax,1/3/2024,H
+357,Jenifer,Long-billed cockatoo,10/21/2024,H
+358,Andy,Baboon chacma,8/28/2024,M
+359,Jeniffer,Zorro common,9/2/2024,H
+360,Adoree,Indian tree pie,12/24/2023,H
+361,Bale,Stanley bustard,8/17/2024,M
+362,Clemmy,Cat toddy,6/23/2024,M
+363,Mala,Butterfly canadian tiger swallowtail,11/5/2024,H
+364,Ariana,Carmine bee-eater,3/12/2024,H
+365,Jessy,Gray rhea,1/27/2024,H
+366,Van,Deer black-tailed,5/27/2024,H
+367,Ivette,Red-winged hawk,12/1/2024,H
+368,Margaret,Bottle-nose dolphin,10/11/2024,H
+369,Tommi,Wallaby tammar,10/10/2024,H
+370,Blakeley,White-winged tern,11/18/2024,H
+371,Yancy,Hyena brown,12/31/2023,M
+372,Thornton,Blue and gold macaw,9/5/2024,M
+373,Graham,Giraffe,3/12/2024,M
+374,Byran,Tarantula salmon pink bird eater,3/9/2024,M
+375,Griffith,White-bellied sea eagle,11/23/2024,M
+376,Feodor,Great cormorant,11/5/2024,M
+377,Tiffie,Stork black-necked,1/2/2024,H
+378,Ferne,Dove laughing,3/1/2024,H
+379,Cullan,Vulture lappet-faced,6/20/2024,M
+380,Twyla,Waxbill violet-eared,6/18/2024,H
+381,Hilary,Weaver red-billed buffalo,4/8/2024,M
+382,Payton,Turtle snake-necked,1/10/2024,M
+383,Stanislas,Fox arctic,3/4/2024,M
+384,Dona,Fox pampa gray,9/6/2024,H
+385,Antoni,Turaco violet-crested,9/11/2024,M
+386,Zaneta,Tropical buckeye butterfly,1/3/2024,H
+387,Almira,Dragon netted rock,6/19/2024,H
+388,Genevieve,Squirrel antelope ground,4/2/2024,H
+389,Ursulina,Boat-billed heron,5/16/2024,H
+390,Luisa,Sugar glider,4/1/2024,H
+391,Damaris,Stork jabiru,6/4/2024,H
+392,Gannon,Common nighthawk,4/1/2024,M
+393,Ferrell,Gecko tokay,4/18/2024,M
+394,Bernadine,Horned rattlesnake,9/24/2024,H
+395,Dmitri,Greater adjutant stork,12/18/2023,M
+396,Paco,Capuchin white-fronted,12/20/2023,M
+397,Kitty,Hornbill leadbeateri's ground,8/3/2024,H
+398,Cobb,Otter canadian river,11/26/2024,M
+399,Nichol,Toucan red-billed,11/2/2024,H
+400,Amara,Azara's zorro,7/30/2024,H
+401,Randee,Hoffman's sloth,9/16/2024,H
+402,Denney,Trumpeter swan,3/8/2024,M
+403,Christy,Serval,5/13/2024,H
+404,Edy,Swallow,6/25/2024,H
+405,Nalani,White spoonbill,8/29/2024,H
+406,Elihu,Fringe-eared oryx,6/10/2024,M
+407,Etienne,Little grebe,11/4/2024,M
+408,Kelbee,Spider wolf,11/29/2024,M
+409,Cassius,Cape starling,6/24/2024,M
+410,Garner,White-throated kingfisher,5/3/2024,M
+411,Bernetta,White-headed vulture,8/2/2024,H
+412,Erik,Southern elephant seal,7/17/2024,M
+413,Celisse,Pintail bahama,3/3/2024,H
+414,Cherida,Weaver red-billed buffalo,5/12/2024,H
+415,Robinet,Mongoose eastern dwarf,12/5/2024,M
+416,Fanni,Capybara,11/7/2024,H
+417,Rafa,Flamingo chilean,4/20/2024,H
+418,Alexandro,Worm snake,3/10/2024,M
+419,Alana,Galapagos albatross,7/30/2024,H
+420,Dave,Crane stanley,6/19/2024,M
+421,Ozzy,Bulbul black-eyed,4/20/2024,M
+422,Doralia,Pine squirrel,4/13/2024,H
+423,Cindy,Tailless tenrec,8/2/2024,H
+424,Madelaine,Galapagos dove,5/22/2024,H
+425,Alic,Jackal golden,3/19/2024,M
+426,Hartley,Otter african clawless,6/23/2024,M
+427,Donna,Smith's bush squirrel,11/6/2024,H
+428,Marjory,Spoonbill white,5/21/2024,H
+429,Geneva,Bulbul black-eyed,3/9/2024,H
+430,Gonzales,Porcupine tree,3/3/2024,M
+431,Sinclare,Gull kelp,7/28/2024,M
+432,Kinna,Eleven-banded armadillo,2/29/2024,H
+433,Petronille,Duck blue,9/6/2024,H
+434,Margaux,Cormorant,7/11/2024,H
+435,Mallory,Squirrel uinta ground,2/21/2024,H
+436,Malissa,Gray langur,11/22/2024,H
+437,Anica,Dog raccoon,9/17/2024,H
+438,Ahmad,Olive baboon,6/16/2024,M
+439,Beret,Cat toddy,1/7/2024,H
+440,Derrek,Owl great horned,8/4/2024,M
+441,Garret,Eastern diamondback rattlesnake,12/8/2023,M
+442,Elysia,Bustard kori,10/8/2024,H
+443,Joya,Squirrel nelson ground,9/22/2024,H
+444,Sherwynd,Legaan ground,12/11/2023,M
+445,Manfred,Desert spiny lizard,3/9/2024,M
+446,Joyan,Plains zebra,7/20/2024,H
+447,Doloritas,Monitor water,1/29/2024,H
+448,Jamison,Eastern fox squirrel,3/3/2024,M
+449,Pembroke,Dove little brown,4/30/2024,M
+450,Jasmina,Cow scottish highland,3/24/2024,H
+451,Rainer,Ring dove,6/7/2024,M
+452,Dulciana,Asian lion,1/19/2024,H
+453,Stormy,Lapwing,6/9/2024,H
+454,Erin,Brocket red,9/6/2024,M
+455,Hogan,Nilgai,11/4/2024,M
+456,Geoff,Cereopsis goose,4/9/2024,M
+457,Inge,Bat asian false vampire,7/30/2024,H
+458,Elberta,Southern lapwing,1/11/2024,H
+459,Elsbeth,Buffalo african,5/20/2024,H
+460,Stern,Brocket brown,8/11/2024,M
+461,Emmye,Tern arctic,5/29/2024,H
+462,Phil,Rufous-collared sparrow,2/12/2024,H
+463,Julianna,Eagle crowned,1/3/2024,H
+464,Cayla,Squirrel indian giant,6/1/2024,H
+465,Aleen,Magistrate black colobus,8/16/2024,H
+466,Tobit,Oribi,1/25/2024,M
+467,Gaylor,Ibis sacred,12/24/2023,M
+468,Belle,Golden jackal,6/28/2024,H
+469,Paxon,Slender loris,2/9/2024,M
+470,Daryl,Tapir brazilian,1/22/2024,H
+471,Warner,Arboral spiny rat,10/23/2024,M
+472,Brigham,Fox crab-eating,9/24/2024,M
+473,Zeke,Common raccoon,9/11/2024,M
+474,Anallese,Galapagos mockingbird,5/18/2024,H
+475,Pandora,Red-knobbed coot,5/25/2024,H
+476,Rem,Dove mourning collared,11/28/2024,M
+477,Hedy,Cape cobra,7/16/2024,H
+478,Bonnibelle,Blackbuck,12/2/2024,H
+479,Ede,Snake carpet,8/12/2024,H
+480,Noelani,Magpie australian,2/2/2024,H
+481,Davidde,Steller's sea lion,12/19/2023,M
+482,Franni,Long-tailed skua,12/27/2023,H
+483,Chad,Grenadier purple,12/30/2023,H
+484,Onfroi,Dog raccoon,10/4/2024,M
+485,Melvin,Crane brolga,11/24/2024,M
+486,Winny,Wapiti elk,,10/2/2024,M
+487,Steffane,Phalarope red-necked,3/12/2024,H
+488,Rozamond,Francolin swainson's,12/26/2023,H
+489,Hall,Ferret black-footed,11/15/2024,M
+490,Demott,Polar bear,12/9/2023,M
+491,Elita,Black-winged stilt,7/18/2024,H
+492,Noel,Gull pacific,10/15/2024,M
+493,Josias,Alligator mississippi,10/13/2024,M
+494,Eugenius,Bulbul black-eyed,4/10/2024,M
+495,Giselle,Southern elephant seal,5/3/2024,H
+496,Gaspard,Sloth two-toed tree,10/25/2024,M
+497,Cinderella,Jabiru stork,5/11/2024,H
+498,Jobey,Red-cheeked cordon bleu,5/2/2024,H
+499,Lemmie,Goose cape barren,5/12/2024,M
+500,Hayyim,White-rumped vulture,10/28/2024,M
+501,Mitchael,Alpaca,11/16/2024,M
+502,Kris,Rattlesnake dusky,6/24/2024,H
+503,Gerladina,Two-toed sloth,7/28/2024,H
+504,Tedra,African jacana,8/21/2024,H
+505,Dewitt,Cheetah,3/26/2024,M
+506,Ware,Darwin ground finch,6/18/2024,M
+507,Sunny,Flicker campo,10/18/2024,M
+508,Norrie,Sally lightfoot crab,7/8/2024,M
+509,Wiatt,Arboral spiny rat,6/16/2024,M
+510,Mame,Vulture lappet-faced,10/3/2024,H
+511,Dasya,Cow scottish highland,8/16/2024,H
+512,Leif,American alligator,8/26/2024,M
+513,Ingeberg,Bennett's wallaby,2/29/2024,H
+514,Salvador,Deer roe,12/5/2024,M
+515,Pincas,Kingfisher pied,6/12/2024,M
+516,Shandy,Starling red-shouldered glossy,7/6/2024,H
+517,Woodrow,Langur hanuman,1/31/2024,M
+518,Ariadne,Southern screamer,1/1/2024,H
+519,Erek,Asian elephant,7/13/2024,M
+520,Gallard,Grey fox,5/18/2024,M
+521,Viviyan,Tenrec tailless,12/23/2023,H
+522,Magnum,Lesser double-collared sunbird,3/29/2024,M
+523,Skippy,Asian elephant,9/29/2024,M
+524,Ki,Four-striped grass mouse,9/1/2024,H
+525,Dina,Sugar glider,7/16/2024,H
+526,Bertrando,Cockatoo red-breasted,5/11/2024,M
+527,Rozelle,Feathertail glider,1/30/2024,H
+528,Adair,Eastern quoll,5/27/2024,M
+529,Yalonda,Caracara yellow-headed,9/12/2024,H
+530,Nathanil,Capuchin weeper,7/5/2024,M
+531,Codie,Blue and yellow macaw,12/22/2023,M
+532,Elisa,Snake carpet,8/20/2024,H
+533,Patten,Oryx fringe-eared,7/29/2024,M
+534,Lucina,African lion,8/18/2024,H
+535,Cchaddie,King vulture,8/5/2024,M
+536,Sid,Long-billed corella,5/13/2024,M
+537,Rossie,Macaw red and blue,8/10/2024,M
+538,Erastus,Greater sage grouse,6/8/2024,M
+539,Giovanni,Laughing dove,1/4/2024,M
+540,Morgan,Mexican boa,3/11/2024,H
+541,Agnesse,Horned lark,10/29/2024,H
+542,Dinah,California sea lion,11/4/2024,H
+543,Daveen,Kangaroo red,12/6/2024,H
+544,Olly,Hartebeest red,4/9/2024,M
+545,Netta,Dove emerald-spotted wood,2/26/2024,H
+546,Zach,Kudu greater,7/10/2024,M
+547,Berk,Common waterbuck,2/22/2024,M
+548,Shir,Long-tailed jaeger,12/7/2024,H
+549,Kayne,Pocket gopher,7/1/2024,M
+550,Lianna,Slender loris,5/15/2024,H
+551,Oralle,King vulture,3/16/2024,H
+552,Tedda,Lemming collared,9/21/2024,H
+553,Clevie,Black-throated cardinal,5/7/2024,M
+554,Germain,Albatross galapagos,5/8/2024,M
+555,Annelise,Kaffir cat,6/7/2024,H
+556,Toddy,Elk Wapiti,9/29/2024,M
+557,Freeland,Dragon frilled,7/10/2024,M
+558,Melly,Pelican australian,3/14/2024,H
+559,Dorthea,Finch common melba,7/26/2024,H
+560,Burton,Galapagos tortoise,1/23/2024,M
+561,Mona,Pocket gopher,1/23/2024,H
+562,May,Savannah deer,8/30/2024,H
+563,Aaron,Tree porcupine,11/25/2024,M
+564,Kara,Snowy egret,1/29/2024,H
+565,Sharleen,Lizard blue-tongued,7/11/2024,H
+566,Dan,Finch common melba,1/18/2024,M
+567,Lezlie,Oribi,8/14/2024,H
+568,Reginald,Gambel's quail,5/20/2024,M
+569,Kristien,Bleeding heart monkey,6/27/2024,H
+570,Damita,Common pheasant,11/16/2024,H
+571,Kaiser,Bird bare-faced go away,9/16/2024,M
+572,Murial,Blackbird red-winged,8/29/2024,H
+573,Godfree,White-fronted capuchin,3/25/2024,M
+574,Valenka,Seal northern fur,4/10/2024,H
+575,Stacy,Caribou,11/23/2024,M
+576,Kirsteni,Skink blue-tongued,8/23/2024,H
+577,Ernestine,Helmeted guinea fowl,3/12/2024,H
+578,Renate,Meerkat red,3/18/2024,H
+579,Cody,Koala,8/3/2024,H
+580,Elfrieda,Genoveva,5/20/2024,H
+581,Garvy,Cape raven,5/9/2024,M
+582,Gannie,Common shelduck,5/8/2024,M
+583,Harlan,Crane wattled,2/11/2024,M
+584,Flori,Red-capped cardinal,10/23/2024,H
+585,Jakie,Monkey bleeding heart,2/21/2024,M
+586,Eve,Cormorant large,11/3/2024,H
+587,Elsie,Onager,7/3/2024,H
+588,Arin,Capuchin white-fronted,9/9/2024,M
+589,Allyn,Southern lapwing,5/13/2024,M
+590,Syman,Peccary collared,10/25/2024,M
+591,Cathryn,Caracal,3/15/2024,H
+592,Galina,Giant armadillo,3/11/2024,H
+593,Ingemar,Violet-crested turaco,2/26/2024,M
+594,Horten,Shelduck european,1/2/2024,M
+595,Cello,Pheasant ring-necked,11/17/2024,M
+596,Gloriane,North American beaver,5/4/2024,H
+597,Melodie,Dabchick,5/13/2024,H
+598,Sileas,Penguin little blue,4/28/2024,H
+599,Kellby,Crested porcupine,2/22/2024,M
+600,Lay,Tortoise indian star,4/22/2024,M
+601,Nevil,Fox north american red,1/24/2024,M
+602,Raddy,Badger american,6/10/2024,M
+603,Ashia,Blackish oystercatcher,10/14/2024,H
+604,Alric,Pallas's fish eagle,1/1/2024,M
+605,Dexter,Giant anteater,9/2/2024,M
+606,Dick,Mountain lion,3/18/2024,M
+607,Morse,Worm snake,12/20/2023,M
+608,Raeann,Asian false vampire bat,6/19/2024,H
+609,Regine,Eland common,2/6/2024,H
+610,Harriott,Hedgehog south african,5/7/2024,H
+611,Teresina,Iguana common green,4/8/2024,H
+612,Barde,Reedbuck bohor,7/5/2024,M
+613,Palmer,Turkey common,3/9/2024,M
+614,Davey,Pygmy possum,6/28/2024,M
+615,Sebastien,Lourie grey,9/8/2024,M
+616,Gerty,Burmese brown mountain tortoise,10/3/2024,H
+617,Vonny,Gecko,5/30/2024,H
+618,Husain,Seal common,1/13/2024,M
+619,Kenton,Screamer crested,1/14/2024,M
+620,Randy,Gull dusky,4/13/2024,M
+621,Amabel,Francolin swainson's,6/10/2024,H
+622,Cleve,Tokay gecko,8/4/2024,M
+623,Gardner,Thrasher curve-billed,11/27/2024,M
+624,Marice,Lark horned,9/17/2024,H
+625,Amil,Jackal asiatic,8/18/2024,H
+626,Robert,White-necked stork,6/30/2024,M
+627,Velma,Quoll spotted-tailed,10/20/2024,H
+628,Mersey,Short-beaked echidna,8/11/2024,H
+629,Elisabetta,Short-beaked echidna,2/3/2024,H
+630,Eustacia,Yellow-rumped siskin,11/8/2024,H
+631,Nollie,Feral rock pigeon,11/12/2024,M
+632,Angele,Cormorant,2/4/2024,H
+633,Welsh,Lappet-faced vulture,8/13/2024,M
+634,Jillane,Mexican beaded lizard,12/4/2024,H
+635,Timmy,Dove mourning collared,6/16/2024,M
+636,Durante,Great white pelican,7/10/2024,M
+637,Hedi,Cliffchat mocking,10/25/2024,H
+638,Maximo,Dog bush,8/7/2024,M
+639,Bab,Gemsbok,9/16/2024,H
+640,Julianna,Bleu blue-breasted cordon,12/9/2023,H
+641,Wilow,Boa cook's tree,9/28/2024,H
+642,Beverly,Skimmer four-spotted,7/31/2024,H
+643,Nicola,Macaque bonnet,10/27/2024,M
+644,Phoebe,Grouse greater sage,9/3/2024,H
+645,Ellette,Skunk striped,7/10/2024,H
+646,Corilla,Corella long-billed,2/1/2024,H
+647,Kennie,Seal southern elephant,4/12/2024,M
+648,Cole,Robin white-throated,1/30/2024,M
+649,Anabel,Numbat,9/22/2024,H
+650,Ara,Marmot yellow-bellied,3/17/2024,H
+651,Joyann,Kangaroo red,4/26/2024,H
+652,Winnie,Rock dove,3/3/2024,M
+653,Ilario,European stork,11/21/2024,M
+654,Rodney,Nine-banded armadillo,11/26/2024,M
+655,Morrie,Snake carpet,5/26/2024,M
+656,Stefania,Macaw green-winged,10/2/2024,H
+657,Brana,Monkey vervet,8/6/2024,H
+658,Regan,Fox grey,6/15/2024,H
+659,Annabella,Ring dove,10/31/2024,H
+660,Jon,Red meerkat,9/29/2024,M
+661,Templeton,Wallaby dama,12/6/2024,M
+662,Shelden,Carmine bee-eater,3/24/2024,M
+663,Ivie,Spider wolf,11/10/2024,H
+664,Dudley,Bat-eared fox,7/9/2024,M
+665,Axel,Gecko tokay,12/4/2024,M
+666,Miguel,Bee-eater nubian,1/15/2024,M
+667,Manda,Squirrel indian giant,8/2/2024,H
+668,Gannie,Cat european wild,6/21/2024,M
+669,Nikita,Red-billed toucan,9/13/2024,M
+670,Karina,Pacific gull,8/29/2024,H
+671,Constantin,Stork saddle-billed,7/15/2024,M
+672,Fernande,Mudskipper,12/28/2023,H
+673,Huntlee,Devil tasmanian,6/5/2024,M
+674,Onfre,Brindled gnu,3/17/2024,M
+675,Odie,Kori bustard,1/7/2024,M
+676,Jayne,Snake carpet,8/29/2024,H
+677,Sibylle,White spoonbill,5/6/2024,H
+678,Silvanus,Urial,4/21/2024,M
+679,Meredith,North American porcupine,5/27/2024,M
+680,Christophorus,Boa mexican,1/7/2024,M
+681,Gae,Eurasian badger,5/4/2024,H
+682,Dallis,Puma south american,8/21/2024,M
+683,Elsey,Cobra,7/19/2024,H
+684,Glenna,Pocket gopher,2/26/2024,H
+685,Gabriela,Green-winged macaw,11/22/2024,H
+686,Taber,Black-faced kangaroo,9/7/2024,M
+687,Cozmo,Coyote,11/9/2024,M
+688,Blancha,Marshbird brown and yellow,11/17/2024,H
+689,Gwenneth,Short-beaked echidna,9/26/2024,H
+690,Galvan,Blue fox,12/31/2023,M
+691,Lynne,Ant,11/8/2024,H
+692,Jobye,Ox musk,11/28/2024,H
+693,Jacky,Southern right whale,4/8/2024,M
+694,Mureil,Steller's sea lion,3/21/2024,H
+695,Sean,Squirrel eastern fox,11/7/2024,H
+696,Lindsay,Hartebeest coke's,8/14/2024,M
+697,Kelli,Sungazer yellow-brown,4/21/2024,H
+698,Cletus,White-fronted capuchin,2/14/2024,M
+699,Elia,Four-horned antelope,3/21/2024,M
+700,Beitris,Eagle golden,8/9/2024,H
+701,Reid,Swan trumpeter,8/7/2024,M
+702,Philip,Dove galapagos,11/17/2024,M
+703,Deena,Blue catfish,7/16/2024,H
+704,Carmon,Silver-backed jackal,5/9/2024,H
+705,Milzie,Asian elephant,8/22/2024,H
+706,Hillard,Pronghorn,11/10/2024,M
+707,Joleen,Four-horned antelope,6/19/2024,H
+708,Giacopo,Robin kalahari scrub,9/13/2024,M
+709,Sayers,Carmine bee-eater,7/11/2024,M
+710,Sharon,Mongoose banded,10/9/2024,H
+711,Andy,Cat cape wild,4/27/2024,H
+712,Ursulina,Sociable weaver,5/5/2024,H
+713,Maurene,Lizard collared,6/20/2024,H
+714,Leela,White rhinoceros,2/17/2024,H
+715,Lezley,Bee-eater nubian,9/28/2024,M
+716,Cordelia,Desert spiny lizard,6/12/2024,H
+717,Doralynn,Cereopsis goose,11/1/2024,H
+718,Josefa,Glider sugar,6/15/2024,H
+719,Kelly,Wild boar,1/22/2024,H
+720,Roslyn,Goat mountain,9/25/2024,H
+721,Savina,Sloth two-toed tree,11/25/2024,H
+722,Elysee,Kangaroo black-faced,6/12/2024,H
+723,Pavla,Parrot hawk-headed,3/23/2024,H
+724,Maximilianus,Pie rufous tree,7/6/2024,M
+725,Nicky,Wallaby dama,6/18/2024,H
+726,Halimeda,Stork white-necked,9/10/2024,H
+727,Julita,Cormorant flightless,8/17/2024,H
+728,Catherin,Mountain duck,6/26/2024,H
+729,Brit,Yellow-billed hornbill,10/6/2024,H
+730,Amalita,Black-fronted bulbul,6/6/2024,H
+731,Ange,Clark's nutcracker,2/23/2024,M
+732,Ruy,Crowned eagle,11/24/2024,M
+733,Vaughn,Boa cook's tree,6/21/2024,M
+734,Constanta,Bandicoot long-nosed,9/9/2024,H
+735,Dore,Jackrabbit white-tailed,5/5/2024,H
+736,Richie,Numbat,7/11/2024,M
+737,Tabina,Common turkey,3/26/2024,H
+738,Cinderella,House crow,2/8/2024,H
+739,Briney,Burchell's gonolek,6/14/2024,H
+740,Kathryn,Raccoon dog,8/22/2024,H
+741,Kristyn,White-throated kingfisher,3/12/2024,H
+742,Karoline,Sungazer yellow-brown,9/1/2024,H
+743,Sybila,Cormorant pied,6/8/2024,H
+744,Ame,Indian leopard,9/8/2024,H
+745,Jelene,Argalis,5/1/2024,H
+746,Valina,Duck white-faced whistling,6/3/2024,H
+747,Free,European spoonbill,5/4/2024,M
+748,Elene,Bobcat,12/8/2023,H
+749,Sheree,Kudu greater,6/8/2024,H
+750,Waylin,Burrowing owl,2/20/2024,M
+751,Rupert,Squirrel european red,3/8/2024,M
+752,Ola,Black-necked stork,2/25/2024,H
+753,Alejandra,Weaver chestnut,6/17/2024,H
+754,Brett,Crane black-crowned,10/17/2024,M
+755,Kendall,Onager,1/2/2024,M
+756,Keene,Hoary marmot,5/29/2024,M
+757,Norris,Pie indian tree,7/4/2024,M
+758,Blaine,Cockatoo slender-billed,10/7/2024,M
+759,Fredi,Caribou,7/2/2024,H
+760,Ingeberg,Snake eastern indigo,3/28/2024,H
+761,Josephine,Monkey black spider,8/19/2024,H
+762,Drusilla,African ground squirrel,9/25/2024,H
+763,Darbee,Australian magpie,7/29/2024,M
+764,Emmery,Beaver north american,1/10/2024,M
+765,Sallee,Kafue flats lechwe,8/2/2024,H
+766,Madelena,House sparrow,9/19/2024,H
+767,Burke,Baboon olive,3/4/2024,M
+768,Baxy,Common dolphin,11/20/2024,M
+769,Evelin,Squirrel palm,12/25/2023,M
+770,Vevay,Tyrant flycatcher,6/27/2024,H
+771,Milo,Rat desert kangaroo,1/3/2024,M
+772,Broddie,Woodpecker red-headed,10/23/2024,M
+773,Phineas,Dog raccoon,3/31/2024,M
+774,Lonnie,Squirrel pine,5/15/2024,M
+775,Adolphe,Swan trumpeter,7/28/2024,M
+776,Forester,Brown hyena,8/12/2024,M
+777,Jandy,American racer,6/7/2024,H
+778,Cinnamon,Crane sarus,6/14/2024,H
+779,Whitney,King cormorant,5/29/2024,H
+780,Gallard,Kite black,4/4/2024,M
+781,Ferdy,Jaguarundi,3/29/2024,M
+782,Ruprecht,Python carpet,12/8/2023,M
+783,Rafaello,Crow american,1/25/2024,M
+784,Rhianon,Possum common brushtail,11/13/2024,H
+785,Neall,Mouflon,5/31/2024,M
+786,Witty,Wombat common,4/6/2024,M
+787,Felizio,Vulture white-rumped,10/30/2024,M
+788,Alyce,Pie indian tree,3/28/2024,H
+789,Elia,Lesser masked weaver,10/10/2024,M
+790,Wally,Western pygmy possum,11/4/2024,H
+791,Isahella,Greater blue-eared starling,9/12/2024,H
+792,Lewiss,White-tailed deer,11/22/2024,M
+793,Gael,Jaguarundi,7/8/2024,M
+794,Major,Penguin fairy,7/2/2024,M
+795,Hurleigh,Jackal black-backed,9/4/2024,M
+796,Briano,Mara,2/26/2024,M
+797,Bordie,Wallaby agile,6/8/2024,M
+798,Erin,Ovenbird,8/22/2024,H
+799,Boonie,Old world fruit bat,11/25/2024,M
+800,Berget,Capuchin weeper,1/16/2024,H
+801,Maryjo,American racer,3/14/2024,H
+802,Antoine,Vulture black,4/10/2024,M
+803,Gail,Mallard,1/14/2024,H
+804,Jordan,Monkey red howler,9/28/2024,M
+805,Valentijn,Gull lava,5/24/2024,M
+806,Madelena,Gnu brindled,8/25/2024,H
+807,Had,Deer savannah,8/9/2024,M
+808,Saxon,Owl burrowing,1/1/2024,M
+809,Abbie,Sheep american bighorn,8/11/2024,H
+810,Cam,Brown antechinus,5/21/2024,H
+811,Emory,Black-crowned night heron,10/12/2024,M
+812,Irvine,Dragon ornate rock,7/11/2024,M
+813,Zack,Stanley bustard,11/3/2024,M
+814,Alessandra,White-necked stork,1/16/2024,H
+815,Carolyn,Griffon vulture,9/20/2024,H
+816,Jorie,Deer white-tailed,4/3/2024,H
+817,Blondell,Eagle golden,8/22/2024,H
+818,Brannon,Golden eagle,11/16/2024,M
+819,Alford,Red-headed woodpecker,1/24/2024,M
+820,Chicky,Rock dove,12/7/2024,M
+821,Conchita,Mexican beaded lizard,12/30/2023,H
+822,Boyd,American woodcock,10/31/2024,M
+823,Jerrilyn,Elk Wapiti,1/2/2024,H
+824,Ailyn,Numbat,1/28/2024,H
+825,Reid,Phalarope grey,3/5/2024,M
+826,Robert,Otter brazilian,2/28/2024,M
+827,Judith,Wombat common,7/12/2024,H
+828,Meier,South American sea lion,8/11/2024,M
+829,Della,Kirk's dik dik,9/21/2024,H
+830,Benjie,Indian jackal,2/2/2024,M
+831,Fremont,Vicuna,1/13/2024,M
+832,Ethe,Pigeon feral rock,3/16/2024,M
+833,Martina,Squirrel eurasian red,5/31/2024,H
+834,Keven,Galapagos mockingbird,10/25/2024,M
+835,Susanna,Square-lipped rhinoceros,2/23/2024,H
+836,Alison,Dragon ornate rock,7/18/2024,H
+837,Antoinette,Monitor water,12/19/2023,H
+838,Marie-ann,African jacana,2/20/2024,H
+839,Blondie,Macaque bonnet,9/9/2024,H
+840,Clare,White stork,8/1/2024,H
+841,Hobey,Stork saddle-billed,6/18/2024,M
+842,Sharity,Stork openbill,6/4/2024,H
+843,Aleksandr,Pocket gopher,4/22/2024,M
+844,Nahum,Cereopsis goose,5/31/2024,M
+845,Corty,Red sheep,12/3/2024,M
+846,Dinny,Ring-necked pheasant,2/13/2024,H
+847,Brena,Prairie falcon,8/26/2024,H
+848,Karol,Savannah deer,10/7/2024,H
+849,Kim,Fox cape,7/24/2024,H
+850,Winna,Nutcracker clark's,6/20/2024,H
+851,Bryce,Stork white,9/2/2024,M
+852,Lexis,Common goldeneye,1/6/2024,H
+853,Glenden,Spurfowl yellow-necked,1/1/2024,M
+854,Ellene,Asian lion,3/9/2024,H
+855,Judie,Pacific gull,2/24/2024,H
+856,Dell,Seal common,5/4/2024,H
+857,Shannan,Bat little brown,1/4/2024,M
+858,Giulio,Blue duck,10/12/2024,M
+859,Mahmud,Nutcracker clark's,3/23/2024,M
+860,Ranee,Pie rufous tree,10/15/2024,H
+861,Lockwood,Jabiru stork,8/14/2024,M
+862,Ambrosius,African ground squirrel,10/10/2024,M
+863,Novelia,Langur common,9/11/2024,H
+864,Alie,Whip-tailed wallaby,5/13/2024,H
+865,Evelina,Cardinal black-throated,8/11/2024,H
+866,Glynis,Fox bat-eared,1/13/2024,H
+867,Agathe,Screamer crested,5/15/2024,H
+868,Randell,Gray rhea,11/22/2024,M
+869,Shell,Hippopotamus,4/26/2024,M
+870,Itch,Hawk galapagos,12/16/2023,M
+871,Skelly,Tasmanian devil,6/4/2024,M
+872,Elie,Whale baleen,12/4/2024,H
+873,Silvana,Wild turkey,3/14/2024,H
+874,Packston,Grey mouse lemur,4/18/2024,M
+875,Percy,Rat arboral spiny,2/27/2024,M
+876,Mitchell,Pine snake,3/25/2024,M
+877,Kimmie,Topi,4/8/2024,H
+878,Ram,Tortoise burmese black mountain,7/1/2024,M
+879,Tucky,Gull kelp,8/23/2024,M
+880,Mel,Dark-winged trumpeter,10/22/2024,H
+881,Benedict,Lesser double-collared sunbird,3/13/2024,M
+882,Waylon,Sandgrouse yellow-throated,7/3/2024,M
+883,Kassia,Greylag goose,6/7/2024,H
+884,Raviv,Llama,12/18/2023,M
+885,Robin,Dove mourning collared,2/16/2024,H
+886,Kati,Badger eurasian,12/18/2023,H
+887,Brandy,Grant's gazelle,12/2/2024,M
+888,Doy,Eagle golden,9/29/2024,M
+889,Stesha,Brindled gnu,4/2/2024,H
+890,Ward,Urial,10/1/2024,M
+891,Corey,Common wombat,8/10/2024,H
+892,Walton,Snake carpet,9/13/2024,M
+893,Emyle,Squirrel glider,2/9/2024,H
+894,Aggy,Capuchin white-fronted,5/10/2024,H
+895,Rabbi,Squirrel malabar,1/13/2024,M
+896,Franni,Bobcat,7/14/2024,H
+897,Herculie,Otter african clawless,9/13/2024,M
+898,Zeke,Starfish crown of thorns,4/24/2024,M
+899,Cyrille,Civet common palm,3/29/2024,M
+900,Audrye,Gray heron,12/6/2024,H
+901,Clarissa,Purple moorhen,3/26/2024,H
+902,Kimmi,Admiral indian red,10/2/2024,H
+903,Washington,Indian giant squirrel,12/10/2023,M
+904,Cyrille,Fox pampa gray,7/10/2024,M
+905,Gwendolyn,Langur common,5/4/2024,H
+906,Alfreda,Raccoon crab-eating,3/26/2024,H
+907,Gino,Stork saddle-billed,9/17/2024,M
+908,Mill,Gray duiker,7/30/2024,M
+909,Hector,Heron grey,7/16/2024,M
+910,Briano,Radiated tortoise,3/22/2024,M
+911,Gideon,White-winged black tern,2/20/2024,M
+912,Adan,Chimpanzee,8/15/2024,M
+913,Harvey,Blackbuck,1/31/2024,M
+914,Fallon,South American sea lion,3/29/2024,H
+915,Hunfredo,Glossy ibis,9/29/2024,M
+916,Vassily,Mountain lion,1/27/2024,M
+917,Meaghan,Wolf timber,6/17/2024,H
+918,Malynda,Common melba finch,9/27/2024,H
+919,Chick,Red-tailed hawk,5/30/2024,M
+920,Daryl,Bush dog,9/21/2024,H
+921,Jordain,Nilgai,4/17/2024,H
+922,Matelda,Booby masked,12/6/2024,H
+923,Alia,Sportive lemur,6/2/2024,H
+924,Roz,Monkey black spider,6/12/2024,H
+925,Binnie,Gazelle thomson's,9/14/2024,H
+926,Karel,Crow pied,12/21/2023,H
+927,Barbe,Miner's cat,10/31/2024,H
+928,Linn,Coatimundi white-nosed,8/7/2024,M
+929,Sanson,Skua long-tailed,4/15/2024,M
+930,Alayne,Mockingbird galapagos,9/7/2024,H
+931,Sigvard,Capybara,8/6/2024,M
+932,Tiebout,Civet,11/22/2024,M
+933,Friedrich,Yak,12/28/2023,M
+934,Audrye,Sparrow rufous-collared,2/27/2024,H
+935,Logan,Fat-tailed dunnart,6/9/2024,M
+936,Uriah,Giant heron,11/10/2024,M
+937,Adler,Indian star tortoise,8/16/2024,M
+938,Bel,Vervet monkey,6/23/2024,H
+939,Luz,Arctic ground squirrel,1/9/2024,H
+940,Creigh,Common wolf,8/20/2024,M
+941,Shamus,Siskin pine,10/25/2024,M
+942,Culley,Squirrel antelope ground,11/19/2024,M
+943,Gabi,Blackbuck,7/7/2024,H
+944,Any,White spoonbill,2/13/2024,M
+945,Timmy,Common langur,6/14/2024,M
+946,Mallory,Insect stick,11/29/2024,M
+947,Antonino,Tyrant flycatcher,2/19/2024,M
+948,Pryce,Crested barbet,1/31/2024,M
+949,Iver,Three-banded plover,8/3/2024,M
+950,Gene,Ant,4/22/2024,H
+951,Jocelyn,Armadillo common long-nosed,2/21/2024,H
+952,Quint,Dove little brown,3/12/2024,M
+953,Julianne,Canadian tiger swallowtail butterfly,9/12/2024,H
+954,Britta,Bandicoot southern brown,6/9/2024,H
+955,Boothe,Heron green-backed,10/14/2024,M
+956,Casie,African buffalo,1/22/2024,H
+957,Kristofor,Porcupine prehensile-tailed,2/13/2024,M
+958,Wainwright,Fat-tailed dunnart,7/1/2024,M
+959,Fredrika,Australian brush turkey,7/11/2024,H
+960,Wyatt,Starling superb,6/12/2024,M
+961,Torey,Common palm civet,12/28/2023,M
+962,Marrilee,Cormorant little,6/2/2024,H
+963,Natty,Common melba finch,10/20/2024,H
+964,Orelie,Rattlesnake eastern diamondback,4/7/2024,H
+965,Cleo,Partridge coqui,2/8/2024,H
+966,Darrel,Wild turkey,2/8/2024,M
+967,Ferguson,Fox bat-eared,9/19/2024,M
+968,Darelle,Denham's bustard,6/10/2024,H
+969,Cam,Kingfisher white-throated,2/16/2024,M
+970,Myrvyn,Gull lava,8/22/2024,M
+971,Cornela,Common goldeneye,8/27/2024,H
+972,Roselin,Eagle crowned,9/8/2024,H
+973,Diena,Mongoose small indian,2/6/2024,H
+974,Emili,Caribou,1/22/2024,H
+975,Marcy,Trumpeter dark-winged,5/14/2024,H
+976,Clevie,Australian magpie,11/28/2024,M
+977,Lyman,Southern screamer,12/15/2023,M
+978,Fletch,Indian peacock,7/23/2024,M
+979,Millicent,Canadian tiger swallowtail butterfly,2/12/2024,H
+980,Gilbertine,Jungle kangaroo,12/9/2023,H
+981,Mohandis,Mouflon,5/8/2024,M
+982,Pebrook,Cat jungle,9/22/2024,M
+983,Stacie,Boa mexican,7/26/2024,H
+984,Twila,Black-necked stork,11/21/2024,H
+985,Addison,Eland common,7/15/2024,M
+986,Abba,Black-collared barbet,6/27/2024,M
+987,Hallsy,Brown brocket,5/26/2024,M
+988,Dov,Crane wattled,1/7/2024,M
+989,Aundrea,Fat-tailed dunnart,5/28/2024,H
+990,Mala,Yellow-headed caracara,7/30/2024,H
+991,Silvie,Francolin coqui,4/14/2024,H
+992,Alan,Marmot hoary,3/16/2024,M
+993,Eduardo,Eagle crowned,6/19/2024,M
+994,Idalia,Parrot hawk-headed,7/2/2024,H
+995,Harry,Ring-tailed possum,5/18/2024,M
+996,Rutledge,Sally lightfoot crab,4/13/2024,M
+997,Reidar,Common langur,12/25/2023,M
+998,Kari,Cat african wild,8/4/2024,H
+999,Noe,Glider sugar,7/15/2024,M
+1000,Dion,Skunk western spotted,12/17/2023,H
