@@ -5,10 +5,11 @@ void View::run() {
     int opcion;
 
     do {
-        cout << "\nMenu Principal:\n";
-        cout << "1. Operaciones en Owners\n";
-        cout << "2. Operaciones en Pets\n";
-        cout << "3. Salir\n";
+        cout << endl;
+        cout << "Menu Principal:" << endl;
+        cout << "1. Operaciones en Owners" << endl;
+        cout << "2. Operaciones en Pets" << endl;
+        cout << "3. Salir" << endl;
         cout << "Ingrese su opcion: ";
         cin >> opcion;
 
@@ -20,10 +21,10 @@ void View::run() {
                 controller.ManejoPets();
                 break;
             case 3:
-                cout << "Saliendo...\n";
+                cout << "Saliendo..." << endl;
                 break;
             default:
-                cout << "Opcion invalida. Intente de nuevo.\n";
+                cout << "Opcion invalida. Intente de nuevo." << endl;
         }
     } while (opcion != 3);
 }
